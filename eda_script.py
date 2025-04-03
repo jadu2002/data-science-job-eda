@@ -4,7 +4,7 @@ import seaborn as sns
 from wordcloud import WordCloud
 
 # Load the dataset
-file_path = "Glassdoor_Salary_Cleaned_Version.csv"  # Change if necessary
+file_path = "kaggle/input/data-science-jobs-and-salary-glassdoor/Glassdoor_Salary_Cleaned_Version.csv"  # Change if necessary
 df = pd.read_csv(file_path)
 
 # Display basic info
