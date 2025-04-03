@@ -1,0 +1,2 @@
+link to data set-
+     "/kaggle/input/data-science-jobs-and-salary-glassdoor/Glassdoor_Salary_Cleaned_Version.csv"
